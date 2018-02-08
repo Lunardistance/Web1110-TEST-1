@@ -1,0 +1,178 @@
+body{
+    display:flex;
+    justify-content: center;
+}
+
+.row{
+    display: flex;
+    border: solid black 1px;
+    width: 77vw;
+    max-height: 3vh;
+    align-content: center;
+    
+}
+
+.col{
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;}
+
+.colmisc{
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+    border: solid black 1px;
+}
+
+.USD{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+
+.GBP{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+.EUR{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+.CAD{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+.JPY{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+.CNY{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+
+.AUD{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+
+
+
+.MISC{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    justify-content: center;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+
+
+}
+
+.vsbtc{
+    display: flex;
+    border: solid black 1px;
+    width: 15vw;
+    background-color: white;
+    min-height: 2vh;
+    text-align: center;
+    margin:0;
+    padding: 0;
+    line-height: 15vh;
+    justify-content: center;
+
+}
+
+.refresh{
+    display: flex;
+    justify-content: center;
+}
+
+
+#bottomrow{
+    line-height: 15vh;
+    min-height: 14vh;
+}
+
+#toprow{
+    line-height: 1vh;
+     
+}
+
+#top{
+    font-weight:bold;
+}
